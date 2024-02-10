@@ -3,7 +3,17 @@ entries:
   guestbook:
   - apiVersion: v2
     appVersion: v5
-    created: "2024-02-10T06:07:20.432563233Z"
+    created: "2024-02-10T06:22:00.313610927Z"
+    description: A Helm chart for Kubernetes
+    digest: df62b2e99d72e7feca239ef847f8afeb0aaa26fbe3d4f5187b64d541e1c2b03a
+    name: guestbook
+    type: application
+    urls:
+    - guestbook-0.9.3.tgz
+    version: 0.9.3
+  - apiVersion: v2
+    appVersion: v5
+    created: "2024-02-10T06:22:00.312922979Z"
     description: A Helm chart for Kubernetes
     digest: da921d85360870edf8712f68d90b67c71f51726653011c3959895c3e1c70b3a1
     name: guestbook
@@ -11,4 +21,4 @@ entries:
     urls:
     - guestbook-0.9.1.tgz
     version: 0.9.1
-generated: "2024-02-10T06:07:20.427759232Z"
+generated: "2024-02-10T06:22:00.312297432Z"
